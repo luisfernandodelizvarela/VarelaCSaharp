@@ -1,0 +1,7 @@
+C:\Users\luis_\OneDrive\Documentos\VarelaCSaharp\Vetor\VetorExemplo\bin\Debug\VetorExemplo.exe.config
+C:\Users\luis_\OneDrive\Documentos\VarelaCSaharp\Vetor\VetorExemplo\bin\Debug\VetorExemplo.exe
+C:\Users\luis_\OneDrive\Documentos\VarelaCSaharp\Vetor\VetorExemplo\bin\Debug\VetorExemplo.pdb
+C:\Users\luis_\OneDrive\Documentos\VarelaCSaharp\Vetor\VetorExemplo\obj\Debug\VetorExemplo.csproj.AssemblyReference.cache
+C:\Users\luis_\OneDrive\Documentos\VarelaCSaharp\Vetor\VetorExemplo\obj\Debug\VetorExemplo.csproj.CoreCompileInputs.cache
+C:\Users\luis_\OneDrive\Documentos\VarelaCSaharp\Vetor\VetorExemplo\obj\Debug\VetorExemplo.exe
+C:\Users\luis_\OneDrive\Documentos\VarelaCSaharp\Vetor\VetorExemplo\obj\Debug\VetorExemplo.pdb
