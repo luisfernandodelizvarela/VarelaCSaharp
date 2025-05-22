@@ -1,0 +1,7 @@
+C:\Users\luis_\OneDrive\Documentos\VarelaCSaharp\Vetor\CadastroJogos\bin\Debug\CadastroJogos.exe.config
+C:\Users\luis_\OneDrive\Documentos\VarelaCSaharp\Vetor\CadastroJogos\bin\Debug\CadastroJogos.exe
+C:\Users\luis_\OneDrive\Documentos\VarelaCSaharp\Vetor\CadastroJogos\bin\Debug\CadastroJogos.pdb
+C:\Users\luis_\OneDrive\Documentos\VarelaCSaharp\Vetor\CadastroJogos\obj\Debug\CadastroJogos.csproj.AssemblyReference.cache
+C:\Users\luis_\OneDrive\Documentos\VarelaCSaharp\Vetor\CadastroJogos\obj\Debug\CadastroJogos.csproj.CoreCompileInputs.cache
+C:\Users\luis_\OneDrive\Documentos\VarelaCSaharp\Vetor\CadastroJogos\obj\Debug\CadastroJogos.exe
+C:\Users\luis_\OneDrive\Documentos\VarelaCSaharp\Vetor\CadastroJogos\obj\Debug\CadastroJogos.pdb
